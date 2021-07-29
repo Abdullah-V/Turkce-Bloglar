@@ -108,9 +108,11 @@ Yazılım, programlama, teknoloji ve kariyer hakkındaki türkçe bloglar.
 - Mert Cobanov - [mertcobanov.medium.com](https://mertcobanov.medium.com/)
 - Mert Susur - [mertsusur.medium.com](https://mertsusur.medium.com/)
 - Merve Arslan - [arslannmrv.medium.com](https://arslannmrv.medium.com/)
+- Merve Cankiz Coruh - [medium.com/@mcankizcoruh](https://medium.com/@mcankizcoruh)
 - Muhammed Hilmi Koca - [mhkoca.medium.com](https://mhkoca.medium.com/)
 - Muhammet Kara - [muhammetkara.com](https://muhammetkara.com/)
 - Mustafa Dikyar - [mustafadikyar.medium.com](https://mustafadikyar.medium.com/)
+- Mustafa Taş - [medium.com/@m2ustafa.tas](https://medium.com/@m2ustafa.tas)
 
 
 # N
@@ -126,6 +128,7 @@ Yazılım, programlama, teknoloji ve kariyer hakkındaki türkçe bloglar.
 
 
 # P
+- Producter - [blog.producter.co](https://blog.producter.co/)
 - Prototurk - [prototurk.com/makaleler](https://prototurk.com/makaleler)
 
 
