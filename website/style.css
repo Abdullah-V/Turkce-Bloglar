@@ -1,0 +1,186 @@
+html,
+body {
+  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI',
+    Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-size: 16px;
+  word-spacing: 1px;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  width: 100%;
+  height: auto;
+  /* padding-bottom: 20px; */
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  /* padding: 0; */
+  outline: none;
+  scroll-behavior: smooth;
+  text-decoration: none;
+  border: 0;
+  transition: 200ms background;
+  font-weight: normal;
+}
+
+button {
+  cursor: pointer;
+  font-size: 18px;
+  background: transparent;
+  color: white;
+  border: 1px solid white;
+  border-radius: 4px;
+}
+
+button:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+a {
+  color: #428bca;
+}
+
+a:hover {
+  color: #2a6496;
+}
+
+.go-top-button {
+  position: fixed;
+  bottom: 38px;
+  right: 40px;
+  width: 80px;
+  height: 50px;
+  background: #63a6df;
+  border: 0;
+  transition: 200ms all;
+  pointer-events: none;
+  opacity: 0;
+}
+
+.go-top-button.visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.go-top-button.visible:hover {
+  background: #3b97e7;
+}
+
+.header {
+  width: 100%;
+  min-height: 500px;
+  background: linear-gradient(265.71deg, #79cfff 0%, #4759ba 100%);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 10px;
+  padding-bottom: 76px;
+  text-align: center;
+}
+
+.header .title {
+  margin-top: 32px;
+  font-size: 56px;
+}
+
+.header .subtitle {
+  margin-top: 18px;
+  font-size: 22px;
+  line-height: 42px;
+}
+
+.header .helper-buttons {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  column-gap: 60px;
+  row-gap: 20px;
+  margin-top: 42px;
+  flex-wrap: wrap;
+}
+
+.header .helper-buttons button {
+  width: 200px;
+  height: 60px;
+}
+
+.letter-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  row-gap: 20px;
+  column-gap: 20px;
+  margin-top: 76px;
+  padding: 0 20px;
+}
+
+.letter-list button {
+  width: 45px;
+  height: 45px;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  row-gap: 40px;
+  margin-top: 120px;
+  padding-left: 200px;
+  padding-bottom: 60px;
+}
+
+.body .list .letter {
+  font-size: 40px;
+  font-weight: 600;
+  width: 200px;
+}
+
+.body .list ul li {
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.footer {
+  width: 100%;
+  padding: 50px 0;
+  background: #f1f1f1;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.footer span {
+  font-size: 20px;
+  cursor: pointer;
+  color: rgb(90, 90, 90);
+}
+
+.footer span:hover {
+  font-size: 20px;
+  cursor: pointer;
+  color: black;
+}
+
+@media only screen and (max-width: 800px) {
+  .body {
+    padding-left: 60px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .body {
+    padding-left: 12px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .footer {
+    flex-direction: column;
+    row-gap: 20px;
+    padding: 20px 0;
+  }
+}
