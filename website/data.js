@@ -101,7 +101,8 @@ export default [
       { name: 'Kaan Ersoy', link: 'https://kaanersoy.medium.com' },
       { name: 'Kodcular', link: 'https://medium.com/kodcular' },
       { name: 'Kodluyoruz', link: 'https://medium.com/@kodluyoruz' },
-      { name: 'Kodcu Herif', link: 'https://www.kodcuherif.com' }
+      { name: 'Kodcu Herif', link: 'https://www.kodcuherif.com' },
+      { name: 'Kodumunblogu', link: 'https://kodumunblogu.net' }
     ]
   },
   {
