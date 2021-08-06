@@ -105,6 +105,7 @@ Yazılım, programlama, teknoloji ve kariyer hakkındaki türkçe bloglar.
 - Kodcular - [medium.com/kodcular](https://medium.com/kodcular)
 - Kodluyoruz - [medium.com/@kodluyoruz](https://medium.com/@kodluyoruz)
 - Kodcu Herif - [kodcuherif.com](https://www.kodcuherif.com/)
+- Kodumunblogu - [kodumunblogu.net](https://kodumunblogu.net/)
 
 # M
 
