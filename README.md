@@ -43,6 +43,7 @@ Yazılım, programlama, teknoloji ve kariyer hakkındaki türkçe bloglar.
 
 # B
 
+- Barış Can Yılmaz - [medium.com/@bariscanyilmaz](https://medium.com/@bariscanyilmaz)
 - Begüm Kırkgöz Demirci - [kodlayananne.medium.com](https://kodlayananne.medium.com/)
 - Bilgem Cakir - [medium.com/@bilgemcakir](https://medium.com/@bilgemcakir)
 - Bora Kaşmer - [borakasmer.com](https://www.borakasmer.com/)
