@@ -79,6 +79,7 @@ Yazılım, programlama, teknoloji ve kariyer hakkındaki türkçe bloglar.
 - Fatih Kadir Akın - [fkadev.medium.com](https://fkadev.medium.com/)
 - Furkan Gulsen - [furkangulsen.medium.com](https://furkangulsen.medium.com/)
 - Fırat Demirel - [firatdemirel.medium.com](https://firatdemirel.medium.com/)
+- Furkan Güngör - [furkan-dvlp.medium.com](https://furkan-dvlp.medium.com/)
 
 # G
 
