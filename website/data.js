@@ -18,6 +18,7 @@ export default [
   {
     letter: 'b',
     blogs: [
+      { name: 'Barış Can Yılmaz', link: 'https://medium.com/@bariscanyilmaz' },
       {
         name: 'Begüm Kırkgöz Demirci',
         link: 'https://kodlayananne.medium.com'
@@ -67,7 +68,9 @@ export default [
       { name: 'Fatih Acet', link: 'https://fatihacet.com' },
       { name: 'Fatih Kadir Akın', link: 'https://fkadev.medium.com' },
       { name: 'Furkan Gulsen', link: 'https://furkangulsen.medium.com' },
-      { name: 'Fırat Demirel', link: 'https://firatdemirel.medium.com' }
+      { name: 'Fırat Demirel', link: 'https://firatdemirel.medium.com' },
+      { name: 'Furkan Güngör', link: 'https://furkan-dvlp.medium.com/' },
+      { name: 'Furkan Uykun', link: 'https://fuykun.medium.com/' }
     ]
   },
   {

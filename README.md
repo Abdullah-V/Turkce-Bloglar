@@ -81,6 +81,7 @@ Yazılım, programlama, teknoloji ve kariyer hakkındaki türkçe bloglar.
 - Furkan Gulsen - [furkangulsen.medium.com](https://furkangulsen.medium.com/)
 - Fırat Demirel - [firatdemirel.medium.com](https://firatdemirel.medium.com/)
 - Furkan Güngör - [furkan-dvlp.medium.com](https://furkan-dvlp.medium.com/)
+- Furkan Uykun - [fuykun.medium.com](https://fuykun.medium.com/)
 
 # G
 
