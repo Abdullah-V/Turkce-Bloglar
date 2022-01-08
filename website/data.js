@@ -69,13 +69,14 @@ export default [
       { name: 'Fatih Kadir Akın', link: 'https://fkadev.medium.com' },
       { name: 'Furkan Gulsen', link: 'https://furkangulsen.medium.com' },
       { name: 'Fırat Demirel', link: 'https://firatdemirel.medium.com' },
-      { name: 'Furkan Güngör', link: 'https://furkan-dvlp.medium.com/' },
-      { name: 'Furkan Uykun', link: 'https://fuykun.medium.com/' }
+      { name: 'Furkan Güngör', link: 'https://furkan-dvlp.medium.com' },
+      { name: 'Furkan Uykun', link: 'https://fuykun.medium.com' }
     ]
   },
   {
     letter: 'g',
     blogs: [
+      { name: 'Gökhan Ayrancıoğlu', link: 'https://gokhana.medium.com' },
       { name: 'Gökhan Gökalp', link: 'https://www.gokhan-gokalp.com' },
       { name: 'Gökhan Şengün', link: 'https://gokhansengun.com' },
       { name: 'Gökhan Topçu', link: 'https://medium.com/@ifndefgt' },
@@ -95,6 +96,7 @@ export default [
     letter: 'i',
     blogs: [
       { name: 'İbrahim Demirli', link: 'https://ibrahimdemirli.medium.com' },
+      { name: 'İlkay Günel', link: 'http://www.ilkaygunel.com' },
       { name: 'İrem Kömürcü', link: 'https://iremkomurcu.medium.com' }
     ]
   },

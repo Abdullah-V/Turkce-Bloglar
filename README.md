@@ -85,6 +85,7 @@ Yazılım, programlama, teknoloji ve kariyer hakkındaki türkçe bloglar.
 
 # G
 
+- Gökhan Ayrancıoğlu - [gokhana.medium.com](https://gokhana.medium.com/)
 - Gökhan Gökalp - [gokhan-gokalp.com](https://www.gokhan-gokalp.com/)
 - Gökhan Şengün - [gokhansengun.com](https://gokhansengun.com/)
 - Gökhan Topçu - [medium.com/@ifndefgt](https://medium.com/@ifndefgt)
@@ -100,6 +101,7 @@ Yazılım, programlama, teknoloji ve kariyer hakkındaki türkçe bloglar.
 # İ
 
 - İbrahim Demirli - [ibrahimdemirli.medium.com](https://ibrahimdemirli.medium.com/)
+- İlkay Günel - [www.ilkaygunel.com](http://www.ilkaygunel.com/)
 - İrem Kömürcü - [iremkomurcu.medium.com](https://iremkomurcu.medium.com/)
 
 # K
